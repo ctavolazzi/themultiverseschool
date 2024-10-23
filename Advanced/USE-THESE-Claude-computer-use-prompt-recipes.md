@@ -1,0 +1,10 @@
+# Computer Use Recipes for Claude Agents
+
+1)
+Open a random article on Wikipedia Write down some of the relevant information from it in a new document. Take the information and save it in a formatted spreadsheet.
+
+2)
+Go on Arxiv and find the latest paper in Physics. Write a short summary of the paper in a new document. Take the information and save it in a formatted spreadsheet. Code the information in a new python file that simulates using the OpenAI API to summarize the paper. Open the python file and run it.
+
+3)
+Recursively scan the internet for all the papers on Arxiv in Physics. Write a short summary of the papers in a new document. Take the information and save it in a formatted spreadsheet. Code the information in a new python file that simulates using the OpenAI API to summarize the papers. Open the python file and run it. Take the output and plug it into a new Claude agent, and ask it to write a research paper on the topic. Give it API access to the new SciKit Learn library. Allow it to use the library to make predictions and launch its own new agents to do iterative research in the same fashion. Save the results to a new database, and allow it to query the database to answer questions about the research. Use the data gleaned from the internet to make predictions about the future of physics and find gaps in the current theories. Check in periodically to update the human research team with the latest findings. You have weekly performance meetings with the research team to discuss the latest findings and make decisions about the future direction of the research, and daily standups with the AI research team to discuss the latest findings and make decisions about the future direction of the research. Your KPIs are the number of papers summarized, the number of new agents launched, the number of predictions made, and the number of questions answered. Keep track of the performance of the research team and the AI agents, and make decisions about the future direction of the research based on the performance metrics. Do not go over budget.
