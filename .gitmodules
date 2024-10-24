@@ -1,0 +1,3 @@
+[submodule "Advanced/claude-engineer"]
+	path = Advanced/claude-engineer
+	url = https://github.com/Doriandarko/claude-engineer.git
